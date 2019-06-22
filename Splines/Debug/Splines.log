@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+c:\users\iluja\documents\visual studio 2015\projects\splines\splines\MyForm.h(759): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\iluja\documents\visual studio 2015\projects\splines\splines\MyForm.h(1077): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\iluja\documents\visual studio 2015\projects\splines\splines\MyForm.h(1637): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\iluja\documents\visual studio 2015\projects\splines\splines\MyForm.h(2197): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\iluja\documents\visual studio 2015\projects\splines\splines\MyForm.h(2755): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\iluja\documents\visual studio 2015\projects\splines\splines\MyForm.h(3314): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\iluja\documents\visual studio 2015\projects\splines\splines\MyForm.h(3872): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+MyForm.cpp(6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Splines.vcxproj -> C:\Users\Iluja\documents\visual studio 2015\Projects\Splines\Debug\Splines.exe
+  Splines.vcxproj -> C:\Users\Iluja\documents\visual studio 2015\Projects\Splines\Debug\Splines.pdb (Partial PDB)
